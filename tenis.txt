@@ -1,0 +1,12 @@
+nome do produto: meu
+valor: 5.000000
+ID: 1
+tamanho: 89.000000
+genero: f
+marca: nike
+nome do produto: a
+valor: 4.000000
+ID: 5
+tamanho: 16.000000
+genero: f
+marca: a
